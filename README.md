@@ -15,7 +15,7 @@ I hope to learn how to present complicated data and stories behind it to the lis
 
 Telling what data indicates to others is very important. Raw data itself cannot communicate with audience itself. However, after some process like data visualization through various types of graphs, like storytellings using understandable language, the meaning of data can be vividly shown to people even though without any professional background. 
 
-In addtion, making pretty graphs is also my expectation. I love managing colors since it will also help people understand the content. The art of using colors will not be learnt in any other courses I will take. Taking Telling Stories with Data is my valuable chance of developing my diverse skills. 
+In addtion, making pretty graphs is also my expectation. I love managing colors since it will also help people understand the content. The art of using colors will not be learnt in any other courses I will take. Taking Telling Stories with Data is my valuable chance to develop my diverse skills. 
 
 
 # Portfolio
