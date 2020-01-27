@@ -42,6 +42,24 @@ The above graph is an interesting beeswarm plot of general government debt-to-GD
 
 The above box plot shows the distribution of each government’s debt from 1996 to 2018. The x-axis represents location and the y-axis represents the debt value. The below box plot clearly shows each government’s minimum, first quartile, median, third quartile and maximum value from 1996 to 2018.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Summary 
 
 The source of data comes from OECD National Accounts Statistics: National Accounts at a Glance (https://data.oecd.org/gga/general-government-debt.htm).  I tried beeswarm plot and box plot to visualize the dataset below. 
