@@ -25,3 +25,14 @@ Here is where all of my cool data visualizations will go.
 
 
 [Here is my second data visualization work!](/dataviz2.md)
+
+# HW2 Summary 
+
+The source of data comes from OECD National Accounts Statistics: National Accounts at a Glance (https://data.oecd.org/gga/general-government-debt.htm).  I tried beeswarm plot and box plot to visualize the dataset below. 
+
+The beeswarm plot visualizes each debt value of different government every year. The graph contains comprehensive information. Looking horizontally we can see the change of debt value over time for each country. Looking vertically, we can see the comparison between each government within the same year. In generally, the bees warm plot represents the tendency of changes year by year. However, it doesn’t show the specific value for each point. 
+
+By comparison, I chose box plot since it could contain comprehensive statistical  data value. Each government’s minimum, first quartile, median, third quartile and maximum value from 1996 to 2018 are all included in the graph. It has great statistical meaning. Meanwhile, the graph also directly and clearly shows the comparison among countries. We can see each government’s value range (which could be an indicator of the statbility) as well as the comparison of each government’s median debt value. However, the box plot cannot show the value corresponding to each specific year. 
+
+I use single color for both graph since I don’t have to stress on the difference among location. The beeswarm plot contains every single point data without showing specific value while the box plot contains much specific statistical information.
+
