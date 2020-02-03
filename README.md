@@ -29,3 +29,6 @@ Here is where all of my cool data visualizations will go.
 
 # Assignment 3 & 4: Critique by Design
 
+Here is the data visualization I chose. The source is from https://www.police.gov.hk/ppp_sc/09_statistics/csd.html. 
+
+![Alt Text](https://github.com/77meow/portfolio/blob/master/screenshot.png)
