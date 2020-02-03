@@ -27,3 +27,5 @@ Here is where all of my cool data visualizations will go.
 [Here is my second data visualization work!](/dataviz2.md)
 
 
+# Assignment 3 & 4: Critique by Design
+
