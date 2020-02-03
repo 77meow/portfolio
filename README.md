@@ -39,7 +39,7 @@ I chose the first graph in the given website above. This bar chart (with two lin
 
 # Things to improve
 
--leave the background as blank
+- leave the background as blank
 - delete numbers labelled on the two lines 
 - change the colors to blue and grey
 - change the lines into dotted lines 
