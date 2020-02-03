@@ -29,6 +29,55 @@ Here is where all of my cool data visualizations will go.
 
 # Assignment 3 & 4: Critique by Design
 
-Here is the data visualization I chose. The source is from https://www.police.gov.hk/ppp_sc/09_statistics/csd.html. 
+Here is the data visualization I chose. The source is https://www.police.gov.hk/ppp_sc/09_statistics/csd.html. 
 
-![Alt Text](https://github.com/77meow/portfolio/blob/master/screenshot.png)
+![Alt Text](https://github.com/77meow/portfolio/blob/master/screenshot.png?raw=true)
+
+
+I chose the first graph in the given website above. This bar chart (with two lines) represents overall  crime and violent crime situation in Hong Kong from Nov 2017 to Oct 2018 and from Nov 2018 and Oct 2019. 
+
+
+# Things to improve
+
+-leave the background as blank
+- delete numbers labelled on the two lines 
+- change the colors to blue and grey
+- change the lines into dotted lines 
+
+# FeedBack from my two friends after first edition
+
+James: need to fill in all the color to make stronger comparison (do not leave the middle as blank)
+        change pencil to pen (more clear)
+
+Jerry: delete the numbers in the bars (common citizens may not so care about the specific numbers!)
+       draw a background line for 4000 and 6000 (most data are around 4000)
+
+# Wireframe 
+
+Here is a picture of my handwritten wireframe!
+
+![Alt Text](https://github.com/77meow/portfolio/blob/master/wireframe.jpeg?raw=true)
+
+
+# Final Verson of my visaulization 
+
+![Alt Text](https://github.com/77meow/portfolio/blob/master/finalgraph.jpeg?raw=true)
+
+
+# Summary 
+
+The original graph is in general a good graph. First of all, it clearly shows the trend of crime from month to month. Bar chart is a form that is universally understood. It not only makes comparison in different months, but also show the proportion of violent crime in each month. 
+
+Meanwhile, it has a label in every bar. It helps audience get the accurate number immediately when looking at the graph.  In addition, the graph contains information in the previous year (from Nov 2017 to Nov 2018), which are the two lines in the graph. Audience can also get the crime statistics in each correspond ding month last year. It helps make comparison between two years and indicate a crime raise or down in every month. 
+
+However, there are also some places that need to be improved. At my first sight I think the graph is a little bit messy because of too many numbers. The graph labels all the data point on the graph. Audience cannot catch the key information. Meanwhile, it took me some time to figure out the meaning of the two lines. Second, the color is not very proper (in my opinion). The two lines are red and pink, which I think is redundant since we don’t have to use different colors to stress on different meanings. Meanwhile, the color of the bars are yellow and light blue. I would change it to a more rational color like dark blue since the topic is crime. 
+
+Thus, I want to change the followings things to make this graph better. 
+First, I would not label the number of the two lines on the graph and would change the lines to dotted lines. The two lines can help make comparison but we don’t need to label every point too specifically. I will still leave the number in each bar. Second, I would change the background to blank (no color and no lines) since we’ve already labeled specific numbers in each bar. It looks much more clear. Third, I would change the bar color to blue instead of yellow. 
+
+After getting feedback from my friends, I fount out the following problems. 
+First, the numbers on the graph are redundant.I think the major audience of the graph is common citizens. Thus, they might not so care about the specific numbers. They intend to see the trend indicated by the graph. 
+After deleting the numbers, I need to add back the background line for 4000 and 6000. I deleted all the background lines at first since I thought I would leave the numbers on the graph. Meanwhile, I found almost all the overall crime data are around 4000 and only one is above 6000. Thus I only leave the line for 4000 and 6000. (violent data are all below 1000 and are not very volatile).
+
+In summeary, we need to first find out the target audience. In this case I think it is citizens without statistics background. Thus, the major goal is to make the graph clear and understandable. Not all of the data points need to be contained in the graph. Squeezing together will make the graph messy and cannot let the audience to get ket information effectively. Meanwhile, color is important. It conveys lots of conventions and can potentially influence readers' feelings. 
+
