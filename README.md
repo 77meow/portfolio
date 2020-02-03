@@ -44,7 +44,9 @@ I chose the first graph in the given website above. This bar chart (with two lin
 - change the colors to blue and grey
 - change the lines into dotted lines 
 
-# FeedBack from my two friends after first edition
+# FeedBack from friends after my first edition
+
+Overall the first draft is clear and understandable. They can directly see the trend and comparison among months and between the two years. However, there are also a few places to improve. I list some main points below!
 
 James: need to fill in all the color to make stronger comparison (do not leave the middle as blank)
         change pencil to pen (more clear)
