@@ -83,3 +83,7 @@ After deleting the numbers, I need to add back the background line for 4000 and 
 
 In summeary, we need to first find out the target audience. In this case I think it is citizens without statistics background. Thus, the major goal is to make the graph clear and understandable. Not all of the data points need to be contained in the graph. Squeezing together will make the graph messy and cannot let the audience to get ket information effectively. Meanwhile, color is important. It conveys lots of conventions and can potentially influence readers' feelings. 
 
+
+# Final Project Part 1
+[Here is my second data visualization work!](/Final Project Part 1)
+
