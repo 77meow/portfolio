@@ -85,5 +85,5 @@ In summeary, we need to first find out the target audience. In this case I think
 
 
 # Final Project Part 1
-[Here is my final project proposal!](/FinalProjectPart1)
+[Here is my final project proposal!](/FinalProjectPart1.md)
 
