@@ -3,5 +3,4 @@
 In this part I use Balsamiq to finish the wireframe of my project. 
 
 
-
-![Alt Text](https://github.com/77meow/portfolio/blob/master/WechatIMG4.jpeg?raw=true)
+![Alt Text](https://github.com/77meow/portfolio/blob/master/New%20Wireframe%201.png?raw=true)
