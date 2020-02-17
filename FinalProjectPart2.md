@@ -36,16 +36,17 @@ Thus, here is my "call to action"! Makeup companies should spend more money on i
 
 # Data Visualization (First Version)
 The following graphs are some of my data visualization work!<br>
-The glabal beauty market is briefly shown as the graph below. We can notice that US takes the largest place.<br>
+For the specific story line, please see the part above!<br>
+#### The glabal beauty market is briefly shown as the graph below. We can notice that US takes the largest place.<br>
 ![Alt Text](https://github.com/77meow/portfolio/blob/master/Global.png?raw=true)<br>
-Then I compared the L'Oreal and Cover Girl' s spending on ads by a line chart.<br>
+#### Then I compared the L'Oreal and Cover Girl' s spending on ads by a line chart.<br>
 ![Alt Text](https://github.com/77meow/portfolio/blob/master/AdsSpending.png?raw=true)<br>
-Based on data, I use two pie chats to show that Cover Girl is the most well-known and frequently used brand. <br>
+#### Based on data, I use two pie chats to show that Cover Girl is the most well-known and frequently used brand. <br>
 ![Alt Text](https://github.com/77meow/portfolio/blob/master/Awareness.png?raw=true)<br>
 ![Alt Text](https://github.com/77meow/portfolio/blob/master/MostFrequentlyUsed.png?raw=true)<br>
-For the specific type of cosmetics, I chose foundation and compared the total sales. <br>
+#### For the specific type of cosmetics, I chose foundation and compared the total sales. <br>
 ![Alt Text](https://github.com/77meow/portfolio/blob/master/Foundation.png?raw=true)<br>
-The analysis for increasing using of social media platforms
+#### The analysis for increasing using of social media platforms
 ![Alt Text](https://github.com/77meow/portfolio/blob/master/platforms.png?raw=true)<br>
 
 # User Research
