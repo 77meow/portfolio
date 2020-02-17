@@ -103,18 +103,18 @@ After collecting and summarizing the feedback from my friends, I decide not to c
 # Revised Data Visualization (Partially revised)
 ### I changed the bar chart of the global makeup market into the following graph since the original data has already used the bar chart!
 <br>
-##### Global Makeup Market, by leading countries
+##### Global Makeup Market, by leading countries<br>
 ![Alt Text](https://github.com/77meow/portfolio/blob/master/globalmarket.png?raw=true)<br>
 
 <br>
 ### I use one foundation label to represent a million sale! It looks more fun!<br>
 <br>
-##### L'Oreal vs CoverGirl on foundation sales
+##### L'Oreal vs CoverGirl on foundation sales<br>
 ![Alt Text](https://github.com/77meow/portfolio/blob/master/Foundations.png?raw=true)<br>
 <br>
 ### I also only leave the data for YouTube, Facebook and Cosmetic Blog and use a line chart to show an increasing tendency in recent years. <br>
 <br>
-##### Increasing Use of Social Media from 2015 to 2018
+##### Increasing Use of Social Media from 2015 to 2018 <br>
 ![Alt Text](https://github.com/77meow/portfolio/blob/master/Platform.png?raw=true)<br>
 
 
