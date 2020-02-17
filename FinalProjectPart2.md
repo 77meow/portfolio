@@ -114,10 +114,12 @@ After collecting and summarizing the feedback from my friends, I decide not to c
 <br>
 ### I also only leave the data for YouTube, Facebook and Cosmetic Blog and use a line chart to show an increasing tendency in recent years. <br>
 <br>
-## Increasing Use of Social Media from 2015 to 2018 <br>
+## Increasing use of social media from 2015 to 2018 <br>
 ![Alt Text](https://github.com/77meow/portfolio/blob/master/Platform.png?raw=true)<br>
-
-
+<br>
+## Factors influencing US women when hoosing cosmetics
+![Alt Text](https://github.com/77meow/portfolio/blob/master/Factors.png?raw=true)<br>
+<br>
 # Data Sources
 1. [https://www.statista.com/statistics/562081/global-beauty-and-personal-care-market-value-by-country/](https://www.statista.com/statistics/562081/global-beauty-and-personal-care-market-value-by-country/)
 2. [https://www.statista.com/statistics/733679/most-frequently-used-make-up-brands-in-the-us/](https://www.statista.com/statistics/733679/most-frequently-used-make-up-brands-in-the-us/)
@@ -126,3 +128,4 @@ After collecting and summarizing the feedback from my friends, I decide not to c
 5. [https://www.statista.com/statistics/194815/leading-us-foundation-brands-in-2013-based-on-sales/](https://www.statista.com/statistics/194815/leading-us-foundation-brands-in-2013-based-on-sales/)
 6. [https://www.statista.com/statistics/309344/cover-girl-ad-spend-usa/](https://www.statista.com/statistics/309344/cover-girl-ad-spend-usa/)
 7. [https://www.statista.com/statistics/268202/loreals-advertising-spending-in-the-us/](https://www.statista.com/statistics/268202/loreals-advertising-spending-in-the-us/)
+8. [https://www.statista.com/statistics/722867/important-makeup-features-among-us-women-by-age/](https://www.statista.com/statistics/722867/important-makeup-features-among-us-women-by-age/)
