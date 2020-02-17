@@ -94,3 +94,11 @@ After collecting and summarizing the feedback from my friends, I decide not to c
 - Change the comparison on foundation sales to be more descriptive
 - For the platform visualization, only use the top3 data (which are Youtube, Facebook and Cosmetic Blog)
 
+# Revised Data Visualization (Partially revised)
+I use one foundation label to represent a million sale! It looks more fun!<br>
+![Alt Text](https://github.com/77meow/portfolio/blob/master/Foundations.png?raw=true)<br>
+<br>
+I also only leave the data for YouTube, Facebook and Cosmetic Blog and use a line chart to show an increasing tendency in recent years. <br>
+![Alt Text](https://github.com/77meow/portfolio/blob/master/Platform.png?raw=true)<br>
+
+
