@@ -1,4 +1,4 @@
-# Wireframes (First Version)
+# Wireframes and Story Arc
 
 In this part I use Balsamiq to finish the wireframe of my project. 
 
@@ -45,6 +45,8 @@ Based on data, I use two pie chats to show that Cover Girl is the most well-know
 ![Alt Text](https://github.com/77meow/portfolio/blob/master/MostFrequentlyUsed.png?raw=true)<br>
 For the specific type of cosmetics, I chose foundation and compared the total sales. <br>
 ![Alt Text](https://github.com/77meow/portfolio/blob/master/Foundation.png?raw=true)<br>
+The analysis for increasing using of social media platforms
+![Alt Text](https://github.com/77meow/portfolio/blob/master/platforms.png?raw=true)<br>
 
 # User Research
 <br>
@@ -84,5 +86,10 @@ I am targetting the following audience for my user research! <br>
 - Can use other forms instead of bar charts<br>
 - The transition from the conclusion to my suggestion is a little bit awkward and feel like missing something<br>
 - Can have more data on customers' criteria when choosing cosmetics since it is the most importamt and direct indication of how companies should act<br>
+- The last graph (social media one) looks messy
 
+## Changes
+After collecting and summarizing the feedback from my friends, I decide not to change my wireframe a lot since the whole story has a clear logic and is understandable. The wireframse is a rough picture of the entire story. Instead, I would like to update some graphs in my data visualization part. I will use canva to make the graphs more engaged. I will make the following changes: 
+- Change the comparison on foundation sales to be more descriptive
+- For the platform visualization, only use the top3 data (which are Youtube, Facebook and Cosmetic Blog)
 
