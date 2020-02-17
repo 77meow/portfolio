@@ -1,4 +1,4 @@
-# Wireframes and Story Arc
+# Wireframes
 
 In this part I use Balsamiq to finish the wireframe of my project. 
 
@@ -48,6 +48,12 @@ For the specific story line, please see the part above!<br>
 ![Alt Text](https://github.com/77meow/portfolio/blob/master/Foundation.png?raw=true)<br>
 #### The analysis for increasing using of social media platforms
 ![Alt Text](https://github.com/77meow/portfolio/blob/master/platforms.png?raw=true)<br>
+
+# Story Arc
+I draw the story arc picture as follow!<br>
+![Alt Text](https://github.com/77meow/portfolio/blob/master/storyarc.jpeg?raw=true)
+## I assume I have a wide range of audience including makeup consumers, cosmetics company like L'Oreal and Cover Girl
+In the beginning, people migt feel happy about the US largest place in the global makeup market. After I put on the ads spending of the two makeup companies, readers might have questions: will the large spending on ads really help? According to the visualization I provided, people might feel suprised and feel confused and sorry about the result (since L'Oreal really spent greatly larger amount than CoverGirl!!) However, after reading my analysis, they might find a convincing reason and can take some actions in the future!
 
 # User Research
 <br>
