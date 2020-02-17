@@ -40,7 +40,8 @@ Thus, here is my "call to action"! Makeup companies should spend more money on i
 
 # User Research
 <br>
-I am targetting the following audience for my user research! 
+I am targetting the following audience for my user research! <br>
+
   - My male friends who do not do make up or watch makeup videos. 
   I choose them as one the targetted audiences because they are totally not familiar with the topic at all. Thus, they can      give me direct feedback on whether my storytelling is clear or not. One of my goals is to let people without any knowledge about makeup understand what the story is. 
  
