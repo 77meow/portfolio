@@ -42,13 +42,13 @@ Thus, here is my "call to action"! Makeup companies should spend more money on i
 <br>
 I am targetting the following audience for my user research! <br>
 
-  - My male friends who do not do make up or watch makeup videos. 
+  - My male friends who do not do make up or watch makeup videos. <br>
   I choose them as one the targetted audiences because they are totally not familiar with the topic at all. Thus, they can      give me direct feedback on whether my storytelling is clear or not. One of my goals is to let people without any knowledge about makeup understand what the story is. 
  
-  - My roommate who barely does makeup but watches makeup youtube channel
+  - My roommate who barely does makeup but watches makeup youtube channel<br>
   I choose my roommate for the interview because she has some knowledge about makeup but is not very familiar with makeup market. The topic will not be strange to her and she might give me some advice from a different perspective from my male friends mentioend above. 
   
-  - A mini makeup youtuber who are passionate about her makeup "business" and very familiar with every type of make brands.
+  - A mini makeup youtuber who are passionate about her makeup "business" and very familiar with every type of make brands.<br>
   I choose her because she can view my data visualization and storytelling from a perspective of an "expert" in the makeup market.
   <br>
   <br>
