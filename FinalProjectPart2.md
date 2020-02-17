@@ -101,10 +101,12 @@ After collecting and summarizing the feedback from my friends, I decide not to c
 - For the platform visualization, only use the top3 data (which are Youtube, Facebook and Cosmetic Blog)
 
 # Revised Data Visualization (Partially revised)
-I use one foundation label to represent a million sale! It looks more fun!<br>
+### I changed the bar chart of the global makeup market into the following graph since the original data has already used the bar chart!
+![Alt Text](https://github.com/77meow/portfolio/blob/master/globalmarket.png?raw=true)<br>
+### I use one foundation label to represent a million sale! It looks more fun!<br>
 ![Alt Text](https://github.com/77meow/portfolio/blob/master/Foundations.png?raw=true)<br>
 <br>
-I also only leave the data for YouTube, Facebook and Cosmetic Blog and use a line chart to show an increasing tendency in recent years. <br>
+### I also only leave the data for YouTube, Facebook and Cosmetic Blog and use a line chart to show an increasing tendency in recent years. <br>
 ![Alt Text](https://github.com/77meow/portfolio/blob/master/Platform.png?raw=true)<br>
 
 
