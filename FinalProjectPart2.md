@@ -51,13 +51,12 @@ I am targetting the following audience for my user research! <br>
   - A mini makeup youtuber who are passionate about her makeup "business" and very familiar with every type of make brands.<br>
   I choose her because she can view my data visualization and storytelling from a perspective of an "expert" in the makeup market.
   <br>
-  <br>
-  <br>
+ 
 
 
 ## Method: in person interviews
 <br>
-## Questions: <br>
+# Questions: <br>
  - Can you understand the story I am telling? (If no, can you indicate which part is confusing)<br>
  - Do you think the logic of the story makes sense? (If no, can you indicate which part is not making sense)<br>
  - Do you think my data visualization is vivid and easy to understand? <br>
