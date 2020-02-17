@@ -99,25 +99,29 @@ I am targetting the following audience for my user research! <br>
 After collecting and summarizing the feedback from my friends, I decide not to change my wireframe a lot since the whole story has a clear logic and is understandable. The wireframse is a rough picture of the entire story. Instead, I would like to update some graphs in my data visualization part. I will use canva to make the graphs more engaged. I will make the following changes: 
 - Change the comparison on foundation sales to be more descriptive
 - For the platform visualization, only use the top3 data (which are Youtube, Facebook and Cosmetic Blog)
+- Change the bar chart in the first visualization
+- Add a graph analyzing factos that would ifluence consumers' decision (as my friend recommended)
 
 # Revised Data Visualization (Partially revised)
-### I changed the bar chart of the global makeup market into the following graph since the original data has already used the bar chart!
+## I changed the bar chart of the global makeup market into the following graph since the original data has already used the bar chart!
 <br>
-## Global Makeup Market, by leading countries<br>
+### Global Makeup Market, by leading countries<br>
 ![Alt Text](https://github.com/77meow/portfolio/blob/master/globalmarket.png?raw=true)<br>
 
 <br>
-### I use one foundation label to represent a million sale! It looks more fun!<br>
+## I use one foundation label to represent a million sale! It looks more fun!<br>
 <br>
 ## L'Oreal vs CoverGirl on foundation sales<br>
 ![Alt Text](https://github.com/77meow/portfolio/blob/master/Foundations.png?raw=true)<br>
 <br>
-### I also only leave the data for YouTube, Facebook and Cosmetic Blog and use a line chart to show an increasing tendency in recent years. <br>
+## I also only leave the data for YouTube, Facebook and Cosmetic Blog and use a line chart to show an increasing tendency in recent years. <br>
 <br>
-## Increasing use of social media from 2015 to 2018 <br>
+### Increasing use of social media from 2015 to 2018 <br>
 ![Alt Text](https://github.com/77meow/portfolio/blob/master/Platform.png?raw=true)<br>
 <br>
-## Factors influencing US women when hoosing cosmetics
+## I add a graph to analyze the factos that would influence US women's decesion when they choose makeup products
+<br>
+### Factors influencing US women when hoosing cosmetics
 ![Alt Text](https://github.com/77meow/portfolio/blob/master/Factors.png?raw=true)<br>
 <br>
 # Data Sources
