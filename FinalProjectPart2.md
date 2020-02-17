@@ -24,8 +24,8 @@ I took a closer look at some specific types of makeup products and CoverGirl is 
 
 ![Alt Text](https://github.com/77meow/portfolio/blob/master/New%20Wireframe%205.png?raw=true)
 
-And here is my conclusion after comparison. 
-![Alt Text](https://github.com/77meow/portfolio/blob/master/New%20Wireframe%206.png?raw=true)
+And here is my conclusion after comparison. <br>
+![Alt Text](https://github.com/77meow/portfolio/blob/master/New%20Wireframe%206.png?raw=true)<br>
 
 I analyzed the reason behind this phenomenon. More and more people tend to use YouTube or other online platform to get known about each product where everyone can share their opinions and experiences. Compared to ads, those reviews are more convincing and real. 
 ![Alt Text](https://github.com/77meow/portfolio/blob/master/New%20Wireframe%207.png?raw=true)
