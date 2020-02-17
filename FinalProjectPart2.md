@@ -35,14 +35,14 @@ Thus, here is my "call to action"! Makeup companies should spend more money on i
 
 
 # Data Visualization (First Version)
-The following graphs are some of my data visualization work!
-The glabal beauty market is briefly shown as the graph below. We can notice that US takes the largest place.
-![Alt Text](https://github.com/77meow/portfolio/blob/master/Global.png?raw=true)
-Then I compared the L'Oreal and Cover Girl' s spending on ads by a line chart.
-![Alt Text](https://github.com/77meow/portfolio/blob/master/AdsSpending.png?raw=true)
-Based on data, I use two pie chats to show that Cover Girl is the most well-known and frequently used brand. 
-![Alt Text](https://github.com/77meow/portfolio/blob/master/Awareness.png?raw=true)
-![Alt Text](https://github.com/77meow/portfolio/blob/master/MostFrequentltUsed.png?raw=true)
+The following graphs are some of my data visualization work!<br>
+The glabal beauty market is briefly shown as the graph below. We can notice that US takes the largest place.<br>
+![Alt Text](https://github.com/77meow/portfolio/blob/master/Global.png?raw=true)<br>
+Then I compared the L'Oreal and Cover Girl' s spending on ads by a line chart.<br>
+![Alt Text](https://github.com/77meow/portfolio/blob/master/AdsSpending.png?raw=true)<br>
+Based on data, I use two pie chats to show that Cover Girl is the most well-known and frequently used brand. <br>
+![Alt Text](https://github.com/77meow/portfolio/blob/master/Awareness.png?raw=true)<br>
+![Alt Text](https://github.com/77meow/portfolio/blob/master/MostFrequentlyUsed.png?raw=true)<br>
 # User Research
 <br>
 I am targetting the following audience for my user research! <br>
