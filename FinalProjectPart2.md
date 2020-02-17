@@ -7,11 +7,30 @@ I will start with introducing the background of the cosmetics markets in United 
 ![Alt Text](https://github.com/77meow/portfolio/blob/master/New%20Wireframe%201.png?raw=true)
 
 
-Many companies start advertising champions and invest much on ads.I found detailed data showing advertising spending of selected brands in U.S, which can give readers a direct comparison on how much each company spent specifically on ads. L’Oréal is on the top and far greater than the rest brands. The advertising spending of another brand CoverGirl shows opposite tendency: decreasing every year since 2011. In the wireframe I will mainly focus on the comparison between these L’Oréal and CoverGirls' ads spending from 2011 to 2016. 
+Many companies start advertising champions and invest much on ads.I found detailed data showing advertising spending of selected brands in U.S。 L’Oréal is on the top and far greater than the rest brands. The advertising spending of another brand CoverGirl shows opposite tendency: decreasing every year since 2011. (In the wireframe I will mainly focus on the comparison between these L’Oréal and CoverGirls' ads spending from 2011 to 2016.) 
 
 
 
 
 ![Alt Text](https://github.com/77meow/portfolio/blob/master/New%20Wireframe%202.png?raw=true)
 
+
 ![Alt Text](https://github.com/77meow/portfolio/blob/master/New%20Wireframe%203.png?raw=true)
+
+I noticed that people have preferences other than L’Oréal on major types of makeup products. CoverGirl is the most well-known, preferred and frequently used brand instead of L’Oréal.
+![Alt Text](https://github.com/77meow/portfolio/blob/master/New%20Wireframe%204.png?raw=true)
+
+I took a closer look at some specific types of makeup products and CoverGirl is also user's favorite. In this part I will choose foundation as an example and make a data visualization. 
+
+![Alt Text](https://github.com/77meow/portfolio/blob/master/New%20Wireframe%205.png?raw=true)
+
+And here is my conclusion after comparison. 
+![Alt Text](https://github.com/77meow/portfolio/blob/master/New%20Wireframe%206.png?raw=true)
+
+I analyzed the reason behind this phenomenon. 
+![Alt Text](https://github.com/77meow/portfolio/blob/master/New%20Wireframe%207.png?raw=true)
+
+Thus, here is my "call to action"!
+![Alt Text](https://github.com/77meow/portfolio/blob/master/New%20Wireframe%208.png?raw=true)
+
+
