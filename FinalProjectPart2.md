@@ -70,4 +70,16 @@ I am targetting the following audience for my user research! <br>
  - Is there anything you find inappropriate?<br>
  
 <br>
-## results
+## Results
+### Positive
+- The logic of the story is understandable. (People without any makeup backgroun can easily understand the logic line)
+- Most of the graphs can deliver the correct information and is descriptive
+- My friends super agreed with the comclusion and suggesions on the topic as I proposed in the project. 
+<br>
+### Negative
+- Many data visualizations are very simple and not very interesting enough 
+- Can use other forms instead of bar charts
+- The transition from the conclusion to my suggestion is a little bit awkward and feel like missing something
+- Can have more data on customers' criteria when choosing cosmetics since it is the most importamt and direct indication of how companies should act
+
+
