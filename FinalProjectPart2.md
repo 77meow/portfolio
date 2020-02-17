@@ -58,9 +58,9 @@ I am targetting the following audience for my user research! <br>
 ## Method: in person interviews
 <br>
 ## Questions: 
-- Can you understand the story I am telling? (If no, can you indicate which part is confusing)
-- Do you think the logic of the story makes sense? (If no, can you indicate which part is not making sense)
-- Do you think my data visualization is vivid and easy to understand? 
-- Do you think my data visualization is beautiful?
-- Is there anything I need to improve on?
-- Is there anything you find inappropriate?
+- Can you understand the story I am telling? (If no, can you indicate which part is confusing)<br>
+- Do you think the logic of the story makes sense? (If no, can you indicate which part is not making sense)<br>
+- Do you think my data visualization is vivid and easy to understand? <br>
+- Do you think my data visualization is beautiful?<br>
+- Is there anything I need to improve on?<br>
+- Is there anything you find inappropriate?<br>
