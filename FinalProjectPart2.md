@@ -70,7 +70,7 @@ I am targetting the following audience for my user research! <br>
  - Is there anything you find inappropriate?<br>
  
 <br>
-## Results
+## Results<br>
 ### Positive<br>
 - The logic of the story is understandable. (People without any makeup backgroun can easily understand the logic line)<br>
 - Most of the graphs can deliver the correct information and is descriptive<br>
