@@ -43,7 +43,8 @@ Then I compared the L'Oreal and Cover Girl' s spending on ads by a line chart.<b
 Based on data, I use two pie chats to show that Cover Girl is the most well-known and frequently used brand. <br>
 ![Alt Text](https://github.com/77meow/portfolio/blob/master/Awareness.png?raw=true)<br>
 ![Alt Text](https://github.com/77meow/portfolio/blob/master/MostFrequentlyUsed.png?raw=true)<br>
-For the specific type of cosmetics, I chose foundation and compared the total sales. 
+For the specific type of cosmetics, I chose foundation and compared the total sales. <br>
+![Alt Text](https://github.com/77meow/portfolio/blob/master/Foundation.png?raw=true)<br>
 
 # User Research
 <br>
