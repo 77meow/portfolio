@@ -61,7 +61,7 @@ Here is a picture of my handwritten wireframe!
 ![Alt Text](https://github.com/77meow/portfolio/blob/master/wireframe.jpeg?raw=true)
 
 
-# Final Verson of my visaulization 
+# Final Verson of my visualization 
 
 ![Alt Text](https://github.com/77meow/portfolio/blob/master/finalgraph.jpeg?raw=true)
 
@@ -87,6 +87,9 @@ In summeary, we need to first find out the target audience. In this case I think
 # Final Project Part 1
 [Here is my final project proposal!](/FinalProjectPart1.md)
 
-# Final Projecy Part 2
+# Final Project Part 2
 [Here is my final project part 2!](/FinalProjectPart2.md)
+
+# Final Project Part 3
+[Here is my final project part 3!](/FinalProjectPart3.md)
 
