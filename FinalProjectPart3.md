@@ -31,4 +31,5 @@ I contructed a rough picture and collected surpportive datasets in the previous 
 #### Refelction <br>
 Looking back at the whole process of my work, I think user reasearch part is a necessary part that I would definitely add to my further project working process. In part two I did a user research, which was interviewing my friends (or different intended audiences) and collecting feedback from them. I really learned a lot in this step. Sometimes it is hard to find things that need to change from our own perspective. However, my friends offered my many innovative ideas and suggestions so that I could improve my work and make it better. For instance, in my first version of the datavisualizations I used only line charts, pie charts and bar charts. It is readable but not fun. With advice from my frinds, I made efforts to improve my graphs to be more descriptive and vivid! User reseach gives me a chance to get feedback from various perpectives. 
 
-
+# SHORTHAND LINK 
+[https://carnegiemellon.shorthandstories.com/l-or-al-vs-covergirl/index.html](https://carnegiemellon.shorthandstories.com/l-or-al-vs-covergirl/index.html)
