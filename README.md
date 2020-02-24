@@ -93,3 +93,5 @@ In summeary, we need to first find out the target audience. In this case I think
 # Final Project Part 3
 [Here is my final project part 3!](/FinalProjectPart3.md)
 
+# SHORTHAND LINK 
+[https://carnegiemellon.shorthandstories.com/l-or-al-vs-covergirl/index.html](https://carnegiemellon.shorthandstories.com/l-or-al-vs-covergirl/index.html)
