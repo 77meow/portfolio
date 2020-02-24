@@ -94,4 +94,4 @@ In summeary, we need to first find out the target audience. In this case I think
 [Here is my final project part 3!](/FinalProjectPart3.md)
 
 # SHORTHAND LINK 
-[Hereis the link to my Shorthand project][https://carnegiemellon.shorthandstories.com/l-or-al-vs-covergirl/index.html](https://carnegiemellon.shorthandstories.com/l-or-al-vs-covergirl/index.html)
+[Hereis the link to my Shorthand project](https://carnegiemellon.shorthandstories.com/l-or-al-vs-covergirl/index.html)
