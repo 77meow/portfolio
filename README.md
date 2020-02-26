@@ -95,3 +95,17 @@ In summeary, we need to first find out the target audience. In this case I think
 
 # SHORTHAND LINK 
 [Here is the link to my Shorthand project](https://carnegiemellon.shorthandstories.com/l-or-al-vs-covergirl/index.html)
+
+# Data Sources
+1. [https://www.statista.com/statistics/562081/global-beauty-and-personal-care-market-value-by-country/](https://www.statista.com/statistics/562081/global-beauty-and-personal-care-market-value-by-country/)
+2. [https://www.statista.com/statistics/733679/most-frequently-used-make-up-brands-in-the-us/](https://www.statista.com/statistics/733679/most-frequently-used-make-up-brands-in-the-us/)
+3. [https://www.statista.com/statistics/733667/consumer-awareness-of-make-up-brands-in-the-us](https://www.statista.com/statistics/733667/consumer-awareness-of-make-up-brands-in-the-us/)
+4. [https://www.statista.com/statistics/625435/importance-of-social-media-when-purchasing-cosmetics-in-the-us-by-type/](https://www.statista.com/statistics/625435/importance-of-social-media-when-purchasing-cosmetics-in-the-us-by-type/)
+5. [https://www.statista.com/statistics/194815/leading-us-foundation-brands-in-2013-based-on-sales/](https://www.statista.com/statistics/194815/leading-us-foundation-brands-in-2013-based-on-sales/)
+6. [https://www.statista.com/statistics/309344/cover-girl-ad-spend-usa/](https://www.statista.com/statistics/309344/cover-girl-ad-spend-usa/)
+7. [https://www.statista.com/statistics/268202/loreals-advertising-spending-in-the-us/](https://www.statista.com/statistics/268202/loreals-advertising-spending-in-the-us/)
+8. [https://www.statista.com/statistics/722867/important-makeup-features-among-us-women-by-age/](https://www.statista.com/statistics/722867/important-makeup-features-among-us-women-by-age/)
+
+# Graph Source
+1. [http://699pic.com/tupian/meizhuang.html](http://699pic.com/tupian/meizhuang.html)*<br>
+*For the image source, I paid the website for using all the images included in the website. I could download images after payment. Thus, the link above is the source where I paid and download the images I used.
