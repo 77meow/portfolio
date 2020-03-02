@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 This is my portfolio for the Telling Stories with Data class at CMU!
 
 
@@ -44,7 +44,7 @@ I chose the first graph in the given website above. This bar chart (with two lin
 - change the colors to blue and grey
 - change the lines into dotted lines 
 
-# FeedBack from friends after my first edition
+# Feedback from friends after my first edition
 
 Overall the first draft is clear and understandable. They can directly see the trend and comparison among months and between the two years. However, there are also a few places to improve. I list some main points below!
 
@@ -61,7 +61,7 @@ Here is a picture of my handwritten wireframe!
 ![Alt Text](https://github.com/77meow/portfolio/blob/master/wireframe.jpeg?raw=true)
 
 
-# Final Verson of my visualization 
+# Final version of my visualization 
 
 ![Alt Text](https://github.com/77meow/portfolio/blob/master/finalgraph.jpeg?raw=true)
 
@@ -106,6 +106,6 @@ In summeary, we need to first find out the target audience. In this case I think
 7. [https://www.statista.com/statistics/268202/loreals-advertising-spending-in-the-us/](https://www.statista.com/statistics/268202/loreals-advertising-spending-in-the-us/)
 8. [https://www.statista.com/statistics/722867/important-makeup-features-among-us-women-by-age/](https://www.statista.com/statistics/722867/important-makeup-features-among-us-women-by-age/)
 
-# Graph Source
+# Graph Sources
 1. [http://699pic.com/tupian/meizhuang.html](http://699pic.com/tupian/meizhuang.html)*<br>
 *For the image source, I paid the website for using all the images included in the website. I could download images after payment. Thus, the link above is the source where I paid and download the images I used.
